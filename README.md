@@ -1,17 +1,3 @@
-# phonecalls
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Auto_Call_Program" 
+# Auto_Call_Program
+# using flutter , Dart , programming problem solving skill
+### A program to automatically call a specific number for a specific number of times specified by the user, and the ringing does not end unless the number of times specified by the user ends, or if the user wants to terminate from a button on the screen
